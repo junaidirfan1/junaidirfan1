@@ -1,7 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
-### My Name is Muhammad Junaid
+### Hi there, I'm Muhammad Junaid <a href="https://www.junaidirfan.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20" width="20"></a>
+## I'm Web and Mobile Application Developer!
 
 :pushpin: React Js <br/>
 :pushpin: React Native Developer <br/>
@@ -67,12 +68,12 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<div>
+
 <details>
    <summary>Github Stats</summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidirfan1&count_private=true&show_icons=true&theme=dark" alt="harry" /></p>
 </details>
-</div>
+
 
 
 
